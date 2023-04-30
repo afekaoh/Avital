@@ -1,0 +1,15 @@
+{
+  "name": "ex3",
+  "version": "1.0.0",
+  "description": "Exercise 3 in the course \"Practical Tools for The Industry\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Avital Gordin",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
